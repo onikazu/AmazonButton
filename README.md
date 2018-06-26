@@ -16,6 +16,9 @@ AWS IoT Buttonを押すとスラックに不足品についての通知が入る
 
 
 ## 参考資料
+- コード
+http://tech.studyplus.co.jp/entry/2018/05/23/100857
+
 - クリック時のアクション差別化
 https://qiita.com/hayao_k/items/0a8b3197ae7b2595ea10
 
